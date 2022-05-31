@@ -1,1 +1,20 @@
+Bug Name: Something will be here later
+Bug ID: Something will be here later
+Area Path: Something will be here later
+Build Number: Version Number 5.0.1
+Severity: HIGH
+Priority: HIGH
+Assigned to: Developer-X
+Reported By: YKevra
+Reported On: 2022-05-31
+Reason: Defect
+Status: New 
+Environment: Windows 2010
+Description: Something will be here later
+Steps to Reproduce: 
+  1. Something will be here later
+  2. Something will be here later
+  3. Something will be here later
+Expected Result: Something will be here later
+Actual Result: Something will be here later
 

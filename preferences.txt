@@ -1,0 +1,5 @@
+film: 1+1
+TV_series: Trigger
+favourite_eat: sushi
+favourite_season: summer
+country_to_visit: Georgia
